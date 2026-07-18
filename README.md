@@ -1,1 +1,1 @@
-9417ff95b65735838ab22595b1592be2000bc06d# wiyrdiren_bot
+# wiyrdiren_bot
